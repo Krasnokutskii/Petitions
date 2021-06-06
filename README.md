@@ -10,7 +10,7 @@ This app for helping people see popular petitions.
  - GCD
  ## Project Screen Shots
 <img src="Screen1.png" width="200"> <img src="Screen2.png" width="200">
-<img src="Screen3.png" width="200"> <img src="Screen4.png" width="200">  <img src="Screen4.png" width="200"> 
+<img src="Screen3.png" width="200"> <img src="Screen4.png" width="200">  <img src="Screen5.png" width="200"> 
 ## Supported devices
 iPhone 6S and 6S Plus.  
 iPhone SE.  
